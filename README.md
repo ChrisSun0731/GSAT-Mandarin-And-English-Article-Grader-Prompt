@@ -9,10 +9,10 @@ An AI-powered evaluation prompt designed to simulate an **official Taiwan GSAT (
 
 The **GSAT English Writing Grader Prompt** helps students, teachers, and educators evaluate English writing performance based on the four official scoring categories:
 
-1. **Content (內容)**
-2. **Organization (組織)**
-3. **Grammar & Sentence Structure (文法與句型)**
-4. **Vocabulary & Spelling (字彙與拼字)**
+1. **Content**
+2. **Organization**
+3. **Grammar & Sentence Structure**
+4. **Vocabulary & Spelling**
 
 The AI acts as an official GSAT English Writing examiner and provides:
 
