@@ -308,4 +308,4 @@ Feel free to open an issue or submit a pull request.
 
 ---
 
-Made for improving English writing education in Taiwan 🇹🇼
+Good luck!
