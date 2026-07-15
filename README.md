@@ -3,6 +3,7 @@ GSAT English Article Grader Prompt
 
 An AI-powered evaluation prompt designed to simulate an **official Taiwan GSAT (學測) English Writing grader**. This prompt evaluates students' English essays according to the official scoring standards and provides detailed feedback, corrections, and a high-scoring revised version.
 Please copy the prompt in GSAT English Article Grader Prompt.md.
+
 ---
 
 ## 📌 Overview
