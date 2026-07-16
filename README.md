@@ -68,7 +68,7 @@ Example:
 ```
 
 For the Mandarin grader, also indicate (or let the AI determine) whether the essay is:
-- **Type A: Reflective Essay (情意題)**, or
+- **Type A: Reflective Essay (情意題)**
 - **Type B: Analytical Essay (知性題)**
 
 ## Step 3 — Receive Evaluation
