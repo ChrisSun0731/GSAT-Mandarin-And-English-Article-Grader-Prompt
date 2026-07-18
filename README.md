@@ -10,8 +10,8 @@ This repository contains two grading prompts:
 
 | File | Subject | Max Score |
 |---|---|---:|
-| `GSAT English Article Grader Prompt.md` | English Writing | 20 |
-| `GSAT Mandarin Article Grader Prompt.md` | Mandarin Writing | 25 |
+| `Prompt for Grading GSAT English Essays.md` | English Writing | 20 |
+| `Prompt for Grading GSAT Mandarin Essays.md` | Mandarin Writing | 25 |
 
 Both prompts turn the AI into an official GSAT examiner that:
 
