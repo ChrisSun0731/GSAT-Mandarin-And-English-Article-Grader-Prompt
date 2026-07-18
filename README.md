@@ -1,4 +1,4 @@
-# GSAT Article Grader Prompts
+# Prompt for Grading GSAT Chinese and English Essays
 
 AI-powered evaluation prompts that simulate **official Taiwan GSAT Writing graders** — one for English Writing, one for Mandarin Writing. Each prompt evaluates a student's essay according to the official scoring standards and returns detailed feedback, error corrections, and a full-marks revised version.
 
@@ -68,7 +68,7 @@ Example:
 ```
 
 For the Mandarin grader, also indicate (or let the AI determine) whether the essay is:
-- **Type A: Reflective Essay (情意題)**, or
+- **Type A: Reflective Essay (情意題)**
 - **Type B: Analytical Essay (知性題)**
 
 ## Step 3 — Receive Evaluation
